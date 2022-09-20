@@ -10,10 +10,10 @@
 
 ## Data 
 {
-    "location": "Monipur",
-    "touristname":"hrLidoy",
+    "location": "Bangla Bazar",
+    "touristname":"Siddique",
     "visite":3,
-    "description":"dfddf",
+    "description":"Most Beutyfull place",
     "price":1000,
     "day":5,
     "roomquantity":2,
